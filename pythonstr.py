@@ -3,7 +3,7 @@ str='suman'
 rev=str[::-1]
 print(rev)
 
-r="" 
+r="" git
 for i in str:
       r=i+r
 print(r)
